@@ -1,6 +1,6 @@
-pip install openwebui
+pip install open-webui
 pip install openai
 pip install flask
-openwebui 
+open-webui 
 openai
 flask
